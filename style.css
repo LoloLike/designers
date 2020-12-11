@@ -1,0 +1,218 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+nav {
+	background-color: #621388;
+	border-radius: 10px;
+	position: fixed;
+	width: 15%;
+	height: 100%;
+}
+
+nav h2 {
+	text-align: center;
+	color: white;
+	font-size: 23px;
+}
+
+nav ul {
+	list-style-type: none;
+	font-weight: bold;
+}
+
+nav li {
+	margin-bottom: 25px;
+}
+
+nav a {
+	text-decoration: none;
+	color: white;
+}
+
+header {
+	margin-left: 25%;
+	padding-top: 70px;
+}
+
+h1 {
+	margin: 0;
+	font-size: 80px;
+	font-weight: normal;
+}
+
+main {
+	margin-left: 25%;
+}
+
+hr {
+	color: #621388;
+	height: 25px;
+	background-color: #621388;
+	margin: 0;
+	margin-bottom: 25px;
+	width: 90%;
+	border-radius: 8px;
+}
+
+h2 {
+	font-size: 60px;
+	color: #621388;
+	margin-bottom: 30px; 
+}
+
+.showcase img {
+	display: inline-block;
+}
+
+.photo1 {
+	width: 40%;
+	margin-right: 20px;
+	border-radius: 8px;
+	opacity: 0.7;
+}
+
+.photo2 {
+	width: 40%;
+	margin-right: 20px;
+	border-radius: 8px;
+	margin-top: 20px;
+	opacity: 0.7;
+}
+
+.designers {
+	display: flex;
+}
+
+.designers_div {
+	width: 25%;
+	margin-right: 2%;
+}
+
+.designers_div img {
+	width: 100%;
+	border-radius: 8px;
+}
+
+.designers_div div {
+	background-color: #e0e0e0;
+	border-radius: 8px;
+	padding: 5px;
+}
+
+.CEO {
+	color: gray;
+}
+
+.pro {
+	font-size: 25px;
+	color: white;
+	padding: 30px;
+	background-color:  #621388;
+}
+
+.packages li {
+	border-bottom: 1px gray solid;
+	border-radius: 10px;
+} 
+
+.packages ul {
+	display: inline-block;
+	width: 35%;
+	background-color: lightgray;
+	border-radius: 8px;
+	text-decoration: none;
+	list-style-type: none;
+	padding: 0;
+	text-align: center;
+}
+ 
+.ul {
+	margin-left: 1%;
+	margin-right: 8%;
+}
+
+.pro2 {
+	font-size: 25px;
+	color: white;
+	padding: 30px;
+	background-color: coral;
+}
+
+li {
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+.soum {
+	font-size: 40px;
+}
+
+.buy, .buy2 {
+	display: block;
+	text-decoration: none;
+	padding: 16px;
+	border-radius: 18px;
+	width: 20%;
+	margin: 0 auto;
+}
+
+.buy {
+	background-color: white;
+	color: #621388;
+}
+
+.buy2 {
+	background-color: coral;
+	color: white;
+}
+
+.section4 input {
+	display: block;
+	width: 80%;
+	padding: 10px;
+	margin-top: 15px;
+}
+
+input[type=submit] {
+	width: 81.5%;
+	margin: 15px auto;
+	background-color: #621388;
+	color: white;
+	border-radius: 10px; 
+	margin: 10px 0;
+}
+
+footer {
+	color: black;
+	background-color: silver;
+	text-align: right;
+}
+
+footer p {
+	margin: 0;
+	padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
